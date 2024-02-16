@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning <b>React<b><br><br>- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yumna-mubeen-b0893a237/](https://www.linkedin.com/in/yumna-mubeen-b0893a237/)<br><br>- 📫 How to reach me **yumnamubeen0019@gmail.com**</p>
+<p align="left">- 🌱 I’m currently learning <b>React<b><br><br>- 👨‍💻 All of my projects are available at (https://www.linkedin.com/in/yumna-mubeen-b0893a237/)[https://www.linkedin.com/in/yumna-mubeen-b0893a237/]<br><br>- 📫 How to reach me **yumnamubeen0019@gmail.com**</p>
 
 ###
 
