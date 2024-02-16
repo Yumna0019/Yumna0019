@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning <b>React<b><br><br>- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yumna-mubeen-b0893a237/] (https://www.linkedin.com/in/yumna-mubeen-b0893a237/)<br><br>- 📫 How to reach me (yumnamubeen0019@gmail.com)</p>
+<p align="left">- 🌱 I’m currently learning <b>React<b><br><br>- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yumna-mubeen-b0893a237/] (https://www.linkedin.com/in/yumna-mubeen-b0893a237/)<br><br>- 📫 How to reach me **yumnamubeen0019@gmail.com**</p>
 
 ###
 
@@ -38,11 +38,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Yumna0019&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yumna0019&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Yumna0019/Yumna0019/output/snake.svg" alt="Snake animation" />
 
 ###
