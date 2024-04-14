@@ -34,51 +34,6 @@
 
 ###
 
-
-# Hi there! 👋 I'm Yumna Mubeen
-
-I'm a Frontend Developer based in Pakistan, passionate about creating interactive and engaging web experiences. Currently, I'm diving deep into the world of React to enhance my skills and build awesome projects.
-
-🌱 **Currently Learning:** React
-
-📫 **Contact Me:** yumnamubeen0019@gmail.com
-
-## Tech Stack
-- Python
-- C++
-- Java
-- HTML5
-- CSS3
-- JavaScript
-- React
-- MySQL
-
-## Projects
-
-### Project 1: [Project Name](link_to_project_repo)
-![Project Image/Logo](project_image.png)
-- Brief description of the project.
-- Technologies used: React, HTML5, CSS3, JavaScript, etc.
-- [Live Demo](link_to_live_demo) | [Repository](link_to_project_repo)
-
-### Project 2: [Project Name](link_to_project_repo)
-![Project Image/Logo](project_image.png)
-- Brief description of the project.
-- Technologies used: React, HTML5, CSS3, JavaScript, etc.
-- [Live Demo](link_to_live_demo) | [Repository](link_to_project_repo)
-
-<!-- Add more projects as needed -->
-
-## GitHub Stats
-![Yumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumnamubeen&show_icons=true&theme=radical)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumnamubeen&layout=compact&theme=radical)
-
-## Connect with Me
-- LinkedIn: [Yumna Mubeen](https://www.linkedin.com/in/yumna-mubeen-b0893a237/)
-- Email: yumnamubeen0019@gmail.com
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yumna0019&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yumna0019&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
