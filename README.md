@@ -55,10 +55,10 @@ I'm Yumna, a passionate Computer Science  at the University of Karachi, with a k
 
 ### Programming Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  height="30" alt="python logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  height="30" alt="java logo"  />
-    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  height="50" alt="python logo"  />
+    <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  height="50" alt="java logo"  />
+    <img width="20" />
 </div>
           
 
@@ -73,8 +73,8 @@ I'm Yumna, a passionate Computer Science  at the University of Karachi, with a k
 
 ### Databases
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height="40" alt="mysql logo"  />
-    <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height="50" alt="mysql logo"  />
+    <img width="20" />
 </div>          
 <!--![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
