@@ -1,6 +1,6 @@
 # Hey! I am Yumna
 
-![Header](https://www.google.com/imgres?imgurl=https://media.licdn.com/dms/image/D4D16AQG9rp0kD_qLHA/profile-displaybackgroundimage-shrink_200_800/0/1689448398238?e%3D2147483647%26v%3Dbeta%26t%3DNT746GP5RNeFkUKAHU-QXAI6E9lf8Yz6zLEQkWV5vwM&tbnid=qnNI-5wI2eamZM&vet=1&imgrefurl=https://lv.linkedin.com/in/karelin-aleksey&docid=SftQVfgAyOEoTM&w=800&h=199&hl=en-GB&source=sh/x/im/m1/2&kgs=c5c401c592391267&shem=abme,trie)
+![Header]()
 
 # 💫 About Me:
 I'm Yumna, a passionate Computer Science  at the University of Karachi, with a keen interest in web development. My journey in the tech world is driven by curiosity and a relentless desire to learn and grow. With strong problem-solving skills and a commitment to writing clean, efficient code, I'm eager to collaborate on innovative projects. Let's connect and create something amazing together! 🤝
