@@ -47,15 +47,18 @@
 I'm Yumna, a passionate Computer Science  at the University of Karachi, with a keen interest in web development. My journey in the tech world is driven by curiosity and a relentless desire to learn and grow. With strong problem-solving skills and a commitment to writing clean, efficient code, I'm eager to collaborate on innovative projects. Let's connect and create something amazing together! 🤝
 
 ## 🌐 Connect with me:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="30" alt="python logo"  />
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="30" alt="linkedIn logo"  />
   <img width="12" />](https://www.linkedin.com/in/yumna-mubeen-b0893a237)
 
 
 ## 💻 Languages and Tools:
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Programming Languages   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  height="30" alt="python logo"  />
+  <img width="12" />/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  height="30" alt="java logo"  />
+  <img width="12" />/>
+          
 
 ### Front-end Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -67,7 +70,9 @@ I'm Yumna, a passionate Computer Science  at the University of Karachi, with a k
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) -->
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height="30" alt="mysql logo"  />
+  <img width="12" />
+          
 <!--![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)-->
