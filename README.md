@@ -1,3 +1,4 @@
+![Profile Image](https://raw.githubusercontent.com/Yumna0019/Yumna0019/main/Me.png)
 
 # 💫 About Me:
 I'm Yumna, a passionate Computer Science  at the University of Karachi, with a keen interest in web development. My journey in the tech world is driven by curiosity and a relentless desire to learn and grow. With strong problem-solving skills and a commitment to writing clean, efficient code, I'm eager to collaborate on innovative projects. Let's connect and create something amazing together! 🤝
