@@ -53,11 +53,13 @@ I'm Yumna, a passionate Computer Science  at the University of Karachi, with a k
 
 ## 💻 Languages and Tools:
 
-### Programming Languages   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  height="30" alt="python logo"  />
-  <img width="12" />/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  height="30" alt="java logo"  />
-  <img width="12" />/>
+### Programming Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  height="30" alt="python logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  height="30" alt="java logo"  />
+    <img width="12" />
+</div>
           
 
 ### Front-end Development
