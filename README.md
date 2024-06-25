@@ -10,13 +10,13 @@ I'm Yumna, a passionate Computer Science  at the University of Karachi, with a k
 
 ### Programming Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  height="45" alt="python logo"  />
     <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  height="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  height="45" alt="java logo"  />
     <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  height="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  height="45" alt="java logo"  />
     <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"   height="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"   height="45" alt="java logo"  />
     <img width="20"/>    
 </div>
           
@@ -24,14 +24,14 @@ I'm Yumna, a passionate Computer Science  at the University of Karachi, with a k
 ### Front-end Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-   height="50" alt="html5 logo"  />
+   height="45" alt="html5 logo"  />
     <img width="20"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-    height="50" alt="css3 logo"  />
+    height="45" alt="css3 logo"  />
     <img width="20"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  height="50" alt="javaScript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  height="45" alt="javaScript logo"  />
     <img width="20"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  height="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  height="45" alt="react logo"  />
     <img width="20"/>
 </div>
 
@@ -41,14 +41,14 @@ I'm Yumna, a passionate Computer Science  at the University of Karachi, with a k
 
 ### Databases
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height="50" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height="45" alt="mysql logo"  />
     <img width="20" />
 </div>          
 
 
 ### Other Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"  height="50" alt="Matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"  height="45" alt="Matlab logo"  />
     <img width="20"/>
           
 </div>
