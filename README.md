@@ -84,13 +84,10 @@ I'm Yumna, a passionate Computer Science  at the University of Karachi, with a k
 
 ## 📊 GitHub Stats:
 ![Yumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yumna0019&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumna0019&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Yumna0019&theme=algolia)
 
 ## ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumna0019&layout=compact&theme=radical)
 
