@@ -33,21 +33,21 @@
 </div>
 
 ###
--->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yumna0019&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yumna0019&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+-->
 
 
 # 💫 About Me:
 I'm Yumna, a passionate Computer Science  at the University of Karachi, with a keen interest in web development. My journey in the tech world is driven by curiosity and a relentless desire to learn and grow. With strong problem-solving skills and a commitment to writing clean, efficient code, I'm eager to collaborate on innovative projects. Let's connect and create something amazing together! 🤝
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yumna0019)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />(https://linkedin.com/in/yumna0019)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Yumna0019)
 
 ## 💻 Languages and Tools:
