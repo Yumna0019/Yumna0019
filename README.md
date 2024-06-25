@@ -1,4 +1,4 @@
-<!--<h2 align="center">Hi 👋! My Yumna Mubeen</h2>
+<h2 align="center">Hi 👋! My Yumna Mubeen</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 </div>
 
 ###
--->
+
 
 
 # 💫 About Me:
@@ -49,7 +49,7 @@ I'm Yumna, a passionate Computer Science  at the University of Karachi, with a k
 ## 🌐 Connect with me:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="30" alt="python logo"  />
   <img width="12" />](https://www.linkedin.com/in/yumna-mubeen-b0893a237)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Yumna0019)
+
 
 ## 💻 Languages and Tools:
 
