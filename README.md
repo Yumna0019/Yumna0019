@@ -1,6 +1,6 @@
 # Hey! I am Yumna
 
-![Header](https://your-image-url.com/banner.png)
+![Header](https://images.app.goo.gl/ZW9sbGTXtW1mVztt6)
 
 # 💫 About Me:
 I'm Yumna, a passionate Computer Science  at the University of Karachi, with a keen interest in web development. My journey in the tech world is driven by curiosity and a relentless desire to learn and grow. With strong problem-solving skills and a commitment to writing clean, efficient code, I'm eager to collaborate on innovative projects. Let's connect and create something amazing together! 🤝
