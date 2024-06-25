@@ -10,7 +10,7 @@ I'm Yumna, a passionate Computer Science  at the University of Karachi, with a k
 
 ### Programming Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  height="40" alt="python logo"  />
     <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  height="50" alt="java logo"  />
     <img width="20" />
