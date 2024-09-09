@@ -22,8 +22,4 @@
 | **Data Structures and Algorithms (DSA)** | [GitHub](https://github.com/Yumna0019/DSA_Codes) |
 | **Academic Material(UBIT)**  | [GitHub](https://github.com/Yumna0019/) |
 
----
-
 Feel free to explore my repositories 😊!
-
----
