@@ -2,7 +2,7 @@
 
 💻 I am a Computer Science student at the University of Karachi, passionate about web development and eager to dive deeper into the tech world. My GitHub account showcases my projects and learning journey. Join me as I continue to expand my skills and contribute to exciting projects!
 
-# Connect with me: [LinkedIn](https://www.linkedin.com/in/yumna-mubeen-b0893a237)
+#### Connect with me: [LinkedIn](https://www.linkedin.com/in/yumna-mubeen-b0893a237)
  
 ## 🛠️ My Tech Stack:
 
