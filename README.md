@@ -81,6 +81,50 @@ I am a Computer Science student at the University of Karachi with a passion for 
 ### 💬 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/yumna0019)
 
+----
+# Hi there! 👋 I'm Yumna Mubeen
+
+Welcome to my GitHub space! I am a **Computer Science** student with a passion for **Web Development** and a drive to create meaningful projects. 
+
+### 🌐 Let's Connect:
+[![LinkedIn Badge](https://img.shields.io/badge/-Yumna%20Mubeen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yumna0019/)](https://www.linkedin.com/in/yumna0019/)
+
+---
+
+### 🚀 Tech Stack:
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+### 📚 Featured Repositories:
+
+| Repository Name           | Link                                                       |
+|---------------------------|------------------------------------------------------------|
+| **React Projects**         | [React Projects](https://github.com/Yumna0019/React_Projects)|
+| **JavaScript Projects**    | [JavaScript Projects](https://github.com/Yumna0019/JavaScript_Projects)|
+| **HTML & CSS Projects**    | [HTML & CSS Projects](https://github.com/Yumna0019/HTML-CSS_Projects)|
+| **DSA Codes**              | [DSA Codes](https://github.com/Yumna0019/DSA_Codes)         |
+| **Uniformed Search Strategies** | [Uniformed Search Strategies](https://github.com/Yumna0019/Uniformed-Search-Strategies) |
+| **HackerRank Solutions**   | _Private_
+
+---
+
+### 📊 GitHub Stats:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yumna0019&show_icons=true&theme=radical" />
+</p>
+
+---
+
+🌱 Currently learning **React.js** and **Data Structures & Algorithms**.  
+💡 Always seeking new ways to challenge myself and grow as a developer!
 
 # 📊 GitHub Stats:
 ![Yumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yumna0019&show_icons=true&theme=radical)
