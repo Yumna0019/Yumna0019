@@ -56,6 +56,32 @@ I'm Yumna, a Computer Science student at the University of Karachi, passionate a
           
 </div>
 
+---
+# Hi there! 👋 I'm Yumna Mubeen
+
+### 👩‍💻 About Me:
+I am a Computer Science student at the University of Karachi with a passion for web development. I enjoy exploring new technologies and frameworks, focusing on front-end development, and creating meaningful projects. I started my GitHub journey in 2023 and have been learning constantly since then!
+
+### 🚀 Tech Skills:
+- **Languages:** JavaScript, HTML, CSS, C++, Python
+- **Frameworks/Libraries:** React.js
+- **Databases:** MySQL
+- **Tools:** Git, VS Code, Netlify
+
+### 💡 GitHub Repositories:
+- [React Projects](https://github.com/Yumna0019/React_Projects)
+- [JavaScript Projects](https://github.com/Yumna0019/JavaScript_Projects)
+- [HTML & CSS Projects](https://github.com/Yumna0019/HTML-CSS_Projects)
+- [DSA Codes](https://github.com/Yumna0019/DSA_Codes)
+- [Uniformed Search Strategies](https://github.com/Yumna0019/Uniformed-Search-Strategies)
+
+### 📈 GitHub Stats:
+![Yumna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yumna0019&show_icons=true&theme=radical)
+
+### 💬 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/yumna0019)
+
+
 # 📊 GitHub Stats:
 ![Yumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yumna0019&show_icons=true&theme=radical)
 <br>
