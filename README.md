@@ -5,14 +5,14 @@
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/yumna-mubeen-b0893a237)
 
-## My Tech Stack:
+## 🛠️ My Tech Stack:
 
 - **Programming Languages**: Python, Java, C, C++
 - **Front-end Development**: HTML5, CSS3, JavaScript, React.js
 - **Databases**: MySQL
 - **Other Tools**: MATLAB
 
-## My Projects:
+## 📂 My Projects:
 
 | **Project**                       | **GitHub Code**                                         |
 |-----------------------------------|---------------------------------------------------------|
@@ -23,6 +23,8 @@
 | **Data Structures and Algorithms (DSA)** | [GitHub](https://github.com/Yumna0019/dsa-projects) |
 | **Academic Material(UBIT)**  | [GitHub](https://github.com/Yumna0019/) |
 
-Feel free to explore my repositories!
+---
+
+Feel free to explore my repositories 😊!
 
 ---
