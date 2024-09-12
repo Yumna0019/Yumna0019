@@ -19,7 +19,7 @@
 | **JavaScript Projects**                    | [GitHub](https://github.com/Yumna0019/JavaScript_Projects) |
 | **HTML + CSS Projects**                    | [GitHub](https://github.com/Yumna0019/HTML-CSS_Projects) |
 | **HackerRank Solutions**                           | [GitHub](https://github.com/Yumna0019/HackerRank) |
-| **Data Structures and Algorithms (DSA)** | [GitHub](https://github.com/Yumna0019/DSA_Codes) |
+| **Data Structures and Algorithms (DSA)** | [GitHub](https://github.com/Yumna0019/DSA) |
 | **Academic Material(UBIT)**  | [GitHub](https://github.com/Yumna0019/) |
 
 Feel free to explore my repositories 😊!
