@@ -20,6 +20,6 @@
 | **HTML + CSS Projects**                    | [GitHub](https://github.com/Yumna0019/HTML-CSS_Projects) |
 | **HackerRank Solutions**                           | [GitHub](https://github.com/Yumna0019/HackerRank) |
 | **Data Structures and Algorithms (DSA)** | [GitHub](https://github.com/Yumna0019/DSA) |
-| **Academic Material(UBIT)**  | [GitHub](https://github.com/Yumna0019/) |
+| **Academic Material(UBIT)**  | [GitHub](https://github.com/Yumna0019/Academic-Material-UBIT) |
 
 Feel free to explore my repositories 😊!
