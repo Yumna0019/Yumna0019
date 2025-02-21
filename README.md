@@ -1,6 +1,6 @@
 # Hi, I'm Yumna Mubeen! 
 
-💻I am a dedicated Computer Science student at the University of Karachi, with a strong passion for web development. Currently, I am focusing on mastering React.js and I constantly strive to improve and expand my skill set. Through hands-on projects and continuous learning, I am determined to grow as a developer and contribute to exciting tech projects. Check out my GitHub and see what I’m working on!
+💻I am a dedicated Computer Science student at the University of Karachi, with a strong passion for web development. Aspiring Full Stack Developer, currently specializing in React.js to build dynamic and scalable web applications. Passionate about writing clean, efficient code and continuously improving my skills in the MERN stack to become a well-rounded developer.
 
 #### Connect with me: [LinkedIn](https://www.linkedin.com/in/yumna-mubeen-b0893a237)
  
