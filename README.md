@@ -7,14 +7,16 @@
 ## 🛠️ My Tech Stack:
 
 - **Programming Languages**: Python, Java, C, C++
-- **Front-end Development**: HTML5, CSS3, JavaScript, React.js
-- **Databases**: MySQL
-- **Other Tools**: MATLAB
+- **Front-end**: HTML5, CSS3, JavaScript, React.js
+- **Back-end**: Express.js
+- **Database**: MySQL, MongoDB Atlas.
+- **Other Tools**: MATLAB, Postman.
 
 ## 📂 My Projects:
 
 | **Project**                       | **GitHub Code**                                         |
 |-----------------------------------|---------------------------------------------------------|
+| **MongoDB Atlas Mini Project**                | [GitHub](https://github.com/Yumna0019/Mongo_Auth_App) |
 | **React Projects**                | [GitHub](https://github.com/Yumna0019/React_Projects) |
 | **JavaScript Projects**                    | [GitHub](https://github.com/Yumna0019/JavaScript_Projects) |
 | **HTML + CSS Projects**                    | [GitHub](https://github.com/Yumna0019/HTML-CSS_Projects) |
