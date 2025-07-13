@@ -40,14 +40,12 @@ Manual Testing • Test Case Writing • Bug Reporting • Postman
 **Other Tools:**  
 MATLAB • VS Code • Git & GitHub
 
----
 
 ## 📌 Current Goals
 - Seeking an **entry-level SQA role** to contribute to a testing team and gain real-world QA experience.
 - Building full stack projects using **React**, **Node.js**, and **MongoDB**.
 - Improving my understanding of **test automation**, **bug lifecycle**, and **CI/CD pipelines**.
 
----
 
 
 ## 📂 My Projects:
