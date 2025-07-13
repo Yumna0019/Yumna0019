@@ -15,7 +15,7 @@
 
 # Hi, I'm Yumna Mubeen! 👋
 
-🎓 I'm a dedicated ** Undergraduate Computer Science student** at the University of Karachi(UBIT). I have a strong passion for **MERN STACK developer** and **Software Quality Assurance (SQA)**.
+🎓 I'm a dedicated **Undergraduate Computer Science student** at the University of Karachi(UBIT). I have a strong passion for **MERN STACK developer** and **Software Quality Assurance (SQA)**.
 
 I'm currently exploring two career paths:
 - 🔍 **Aspiring SQA Engineer**: I enjoy testing, and debugging in a software.
