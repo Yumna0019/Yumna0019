@@ -1,4 +1,4 @@
-# Hi, I'm Yumna Mubeen! 
+<!--# Hi, I'm Yumna Mubeen! 
 
 💻I am a dedicated Computer Science student at the University of Karachi, with a strong passion for web development. Aspiring Full Stack Developer, currently specializing in React.js to build dynamic and scalable web applications. Passionate about writing clean, efficient code and continuously improving my skills in the MERN stack to become a well-rounded developer.
 
@@ -11,6 +11,51 @@
 - **Back-end**: Express.js
 - **Database**: MySQL, MongoDB Atlas.
 - **Other Tools**: MATLAB, Postman.
+-->
+
+# Hi, I'm Yumna Mubeen! 👋
+
+🎓 I'm a dedicated ** Undergraduate Computer Science student** at the University of Karachi(UBIT). I have a strong passion for **MERN STACK developer** and **Software Quality Assurance (SQA)**.
+
+I'm currently exploring two career paths:
+- 🔍 **Aspiring SQA Engineer**: I enjoy testing, and debugging in a software.
+- 💻 **MERN Stack Developer**: I'm building **full stack MERN projects** (MongoDB, Express.js, React.js, Node.js).And continuously improving my backend and frontend development skills.
+---
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yumna-mubeen-b0893a237)
+
+---
+
+## 🛠️ My Tech Stack
+
+**Programming Languages:**  
+Python • Java • C • C++
+
+**Frontend:**  
+HTML5 • CSS3 • JavaScript • React.js
+
+**Backend:**  
+Express.js
+
+**Database:**  
+MySQL • MongoDB Atlas
+
+**QA & Testing Tools:**  
+Manual Testing • Test Case Writing • Bug Reporting • Postman 
+
+**Other Tools:**  
+MATLAB • VS Code • Git & GitHub
+
+---
+
+## 📌 Current Goals
+- Seeking an **entry-level SQA role** to contribute to a testing team and gain real-world QA experience.
+- Building full stack projects using **React**, **Node.js**, and **MongoDB**.
+- Improving my understanding of **test automation**, **bug lifecycle**, and **CI/CD pipelines**.
+
+---
+
 
 ## 📂 My Projects:
 
@@ -36,4 +81,4 @@
 
 <br>
 <!-- --- --> 
-Feel free to explore my repositories 😊!
+Feel free to check out my projects or connect with me 😊!
