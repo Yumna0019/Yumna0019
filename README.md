@@ -20,23 +20,16 @@
 I'm currently exploring two career paths:
 - 🔍 **Aspiring SQA Engineer**: I enjoy testing, and debugging in a software.
 - 💻 **MERN Stack Developer**: I'm building **full stack MERN projects** (MongoDB, Express.js, React.js, Node.js).And continuously improving my backend and frontend development skills.
----
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yumna-mubeen-b0893a237)
-
----
+#### Connect with me: [LinkedIn](https://www.linkedin.com/in/yumna-mubeen-b0893a237)
 
 ## 🛠️ My Tech Stack
 
 **Programming Languages:**  
 Python • Java • C • C++
 
-**Frontend:**  
-HTML5 • CSS3 • JavaScript • React.js
-
-**Backend:**  
-Express.js
+**Frontend & Backend:**  
+HTML5 • CSS3 • JavaScript • React.js • Express.js
 
 **Database:**  
 MySQL • MongoDB Atlas
