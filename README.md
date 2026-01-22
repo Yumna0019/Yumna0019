@@ -109,9 +109,6 @@ MySQL • MongoDB
 * Status code validation
 * Request & response verification-->
 
-
-
-<br>
 <br>
 <!-- --- --> 
 Feel free to check out my profile or connect with me 😊!
