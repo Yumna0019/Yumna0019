@@ -59,12 +59,13 @@ MATLAB • VS Code • Git & GitHub
 # Hi, I’m Yumna Mubeen! 👋
 
 🎓 I’m a **BSCS graduate** from the **University of Karachi (UBIT)** with a strong interest in **Software Quality Assurance (SQA)**.
+
 I am an **aspiring QA Engineer** with solid knowledge of **manual testing**, including **test case writing, test execution, and bug reporting**. I have a good understanding of the **testing lifecycle, test coverage, and defect lifecycle**, and I am actively working toward learning **automation testing**.
 
 * I enjoy analyzing requirements, writing test cases, executing test scenarios, and identifying defects.
 * I focus on **functional correctness, usability, edge cases, and error handling**.
 
-#### Connect with me
+### Connect with me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/yumna-mubeen)
 
@@ -96,8 +97,6 @@ HTML5 • CSS3 • JavaScript • React.js
 ### **Databases**
 
 MySQL • MongoDB 
-
----
 
 <!--## 📌 Current Goals
 
