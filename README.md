@@ -1,19 +1,4 @@
-<!--# Hi, I'm Yumna Mubeen! 
-
-💻I am a dedicated Computer Science student at the University of Karachi, with a strong passion for web development. Aspiring Full Stack Developer, currently specializing in React.js to build dynamic and scalable web applications. Passionate about writing clean, efficient code and continuously improving my skills in the MERN stack to become a well-rounded developer.
-
-#### Connect with me: [LinkedIn](https://www.linkedin.com/in/yumna-mubeen-b0893a237)
- 
-## 🛠️ My Tech Stack:
-
-- **Programming Languages**: Python, Java, C, C++
-- **Front-end**: HTML5, CSS3, JavaScript, React.js
-- **Back-end**: Express.js
-- **Database**: MySQL, MongoDB Atlas.
-- **Other Tools**: MATLAB, Postman.
--->
-
-# Hi, I'm Yumna Mubeen! 👋
+<!--# Hi, I'm Yumna Mubeen! 👋
 
 🎓 I'm a dedicated **Computer Science student** at the University of Karachi(UBIT). I have a strong passion for **Software Quality Assurance (SQA)** and **MERN STACK developer**.
 
@@ -70,6 +55,69 @@ MATLAB • VS Code • Git & GitHub
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yumna0019&show_icons=true&locale=en&theme=dark" alt="yumna0019" /></p>-->
 
+
+# Hi, I’m Yumna Mubeen! 👋
+
+🎓 I’m a **BSCS graduate** from the **University of Karachi (UBIT)** with a strong interest in **Software Quality Assurance (SQA)**.
+I am an **aspiring QA Engineer** with solid knowledge of **manual testing**, including **test case writing, test execution, and bug reporting**. I have a good understanding of the **testing lifecycle, test coverage, and defect lifecycle**, and I am actively working toward learning **automation testing**.
+
+* I enjoy analyzing requirements, writing test cases, executing test scenarios, and identifying defects.
+* I focus on **functional correctness, usability, edge cases, and error handling**.
+
+#### Connect with me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/yumna-mubeen)
+
+---
+
+## 🛠️ My Tech Stack
+
+### **QA & Testing Skills**
+
+* Manual Testing
+* Test Scenario & Test Case Writing
+* Positive & Negative Testing
+* Smoke, Sanity & Regression Testing
+* Functional & Non-Functional Testing
+* Bug / Defect Reporting
+* Test Coverage Analysis
+
+### **Tools**
+
+VS Code • Git & GitHub • Excel / Google Sheets • Postman
+
+### **Programming Languages**
+
+Python • Java • C • C++
+
+### **Web & Application Knowledge**
+
+HTML5 • CSS3 • JavaScript • React.js
+
+### **Databases**
+
+MySQL • MongoDB 
+
+---
+
+<!--## 📌 Current Goals
+
+* Seeking an **entry-level SQA / QA Engineer role** to gain hands-on industry experience
+* Strengthening skills in **manual testing, test design techniques, and defect management**-->
+
+---
+
+
+
+
+<!--### **API Testing**
+
+* Postman (GET, POST, PUT, DELETE)
+* Status code validation
+* Request & response verification-->
+
+
+
 <br>
 <!-- --- --> 
-Feel free to check out my projects or connect with me 😊!
+Feel free to check out my profile or connect with me 😊!
