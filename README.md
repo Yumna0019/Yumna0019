@@ -68,7 +68,6 @@ I am an **aspiring QA Engineer** with solid knowledge of **manual testing**, inc
 
 🔗 [LinkedIn](https://www.linkedin.com/in/yumna-mubeen)
 
----
 
 ## 🛠️ My Tech Stack
 
@@ -104,11 +103,6 @@ MySQL • MongoDB
 
 * Seeking an **entry-level SQA / QA Engineer role** to gain hands-on industry experience
 * Strengthening skills in **manual testing, test design techniques, and defect management**-->
-
----
-
-
-
 
 <!--### **API Testing**
 
